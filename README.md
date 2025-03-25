@@ -114,7 +114,7 @@ Creating an effective responsive layout with Flexbox was another important skill
 
 ## Author
 
-- Frontend Mentor - [@frontendmentor(https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@frontendmentor](https://www.frontendmentor.io/profile/yourusername)
 
 ## Acknowledgments
 
