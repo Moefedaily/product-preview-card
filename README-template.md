@@ -29,9 +29,17 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot/desktop.jpg)
-![](./screenshot/desktop%20with%20hover.jpg)
-![](./screenshot/mobile.jpg)
+### Desktop View
+
+<img src="./screenshot/desktop.jpg" width="800px" alt="Desktop view">
+
+### Desktop View with Hover State
+
+<img src="./screenshot/desktop%20with%20hover.jpg" width="800px" alt="Desktop view with hover state">
+
+### Mobile View
+
+<img src="./screenshot/mobile.jpg" width="375px" alt="Mobile view">
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
